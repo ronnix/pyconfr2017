@@ -1,0 +1,6 @@
+freezegun
+hypothesis
+pytest
+pytest-catchlog
+requests
+responses
